@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Arda%20Duran&fontSize=43&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Arda%20Duran&fontSize=43&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=1E90FF&center=true&vCenter=true&width=600&lines=Mobil+Uygulama+Geliştirici;Flutter+%26+Dart;Android+Geliştirme;Sürekli+Öğrenen">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=000000&center=true&vCenter=true&width=600&lines=Mobil+Uygulama+Geliştirici;Flutter+%26+Dart;Android+Geliştirme;Sürekli+Öğrenen">
 </p>
 
 ---
@@ -57,7 +57,7 @@ Projelerimde temiz kod yapısına, kullanıcı deneyimine ve sürdürülebilirli
 
 <p align="center">
   <a href="mailto:arda.duran.20069000706@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ArdaDuran7">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
@@ -82,5 +82,5 @@ Projelerimde temiz kod yapısına, kullanıcı deneyimine ve sürdürülebilirli
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer"/>
 </p>
