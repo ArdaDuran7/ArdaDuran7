@@ -12,7 +12,7 @@
 
 ## 👋 Hakkımda
 
-Merhaba, ben **Sadık Çetin**. Yazılım geliştirme alanında kendini sürekli geliştirmeyi hedefleyen bir öğrenciyim.  
+Merhaba, ben **Arda Duran**. Yazılım geliştirme alanında kendini sürekli geliştirmeyi hedefleyen bir öğrenciyim.  
 Java ve web teknolojilerine yönelik çalışmalar yapıyor, temiz, anlaşılır ve sürdürülebilir kod yazmaya önem veriyorum.  
 Çalışmalarımda profesyonel standartları benimsemeye, öğrendiklerimi projelerle pekiştirmeye ve yeni teknolojileri takip etmeye özen gösteriyorum.
 
@@ -43,21 +43,21 @@ Java ve web teknolojilerine yönelik çalışmalar yapıyor, temiz, anlaşılır
 
 <div align="center">
 
-### 📁 **MY-Odevi-I-240053035**  
+### 📁 **MY-Odevi-I-240053017**  
 HTML yapısı ve temel web tasarım teknikleri üzerine geliştirilmiş bir proje.  
-🔗 https://github.com/SadikBey/MY-Odevi-I-240053035  
+🔗 https://github.com/ArdaDuran7/MY-Odevi-I-240053017  
 
 ---
 
 ### 📁 **NYP-Odevi-I-240053035**  
 Java dilinde nesne yönelimli programlama örnekleri içeren çalışma.  
-🔗 https://github.com/SadikBey/NYP-Odevi-I-240053035  
+🔗 https://github.com/ArdaDuran7/NYP-Odevi-I-240053017
 
 ---
 
 ### 📁 **VY-Odevi-I-240053035**  
 Veri yapıları ve algoritmalara yönelik Java projesi.  
-🔗 https://github.com/SadikBey/VY-devl-I-240053035  
+🔗 https://github.com/ArdaDuran7/VY-devl-I-240053017 
 
 </div>
 
@@ -69,13 +69,13 @@ Veri yapıları ve algoritmalara yönelik Java projesi.
   <a href="mailto:sc245454@gmail.com">
   <img src="https://img.shields.io/badge/Mail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  <a href="https://github.com/SadikBey">
+  <a href="https://github.com/ArdaDuran7">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/sadkctin/">
+  <a href="https://www.instagram.com/ArdaDuran7/">
     <img src="https://img.shields.io/badge/Instagram-8A3AB9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sadikcetin/">
+  <a href="https://www.linkedin.com/in/arda-duran-77b8812b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
