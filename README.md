@@ -10,7 +10,7 @@
 
 ## 👋 Hakkımda
 
-Merhaba, ben **Arda Duran**. Yazılım geliştirme alanında kendini geliştiren bir mühendislik öğrencisiyim.  
+Merhaba, ben **Arda Duran**. Yazılım geliştirme alanında kendini geliştiren bir bilgisayar programcısı öğrencisiyim.  
 Özellikle mobil uygulama geliştirme ve modern yazılım teknolojileri üzerine çalışmalar yapıyorum.  
 Projelerimde temiz kod yapısına, kullanıcı deneyimine ve sürdürülebilirliğe önem veriyorum.
 
