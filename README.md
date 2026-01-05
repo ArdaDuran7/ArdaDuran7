@@ -41,13 +41,13 @@ Projelerimde temiz kod yapısına, kullanıcı deneyimine ve sürdürülebilirli
 
 <div align="center">
 
-### 📁 **Proje Adı 1** Buraya projenin kısa bir açıklamasını yazabilirsin.  
-🔗 [Proje Linki Buraya]
+### 📁 **Proje Adı 1** Mobil Uygulama Geliştirme Projesi  
+🔗 https://github.com/ArdaDuran7/SanayiRehberim
 
 ---
 
-### 📁 **Proje Adı 2** Buraya projenin kısa bir açıklamasını yazabilirsin.  
-🔗 [Proje Linki Buraya]
+### 📁 **Proje Adı 2** Veri Yapıları Projesi 
+🔗 https://github.com/ArdaDuran7/VY-FINAL-240053017
 
 </div>
 
